@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Evgeniya Lvova](https://up.htmlacademy.ru/htmlcss/16/user/299703).
-* Наставник: `Неизвестно`.
+* Наставник: [Liza Pozdnyakova].
 
 ---
 
